@@ -17,6 +17,8 @@ Aplicação em Java em desenvolvimento para controle básico de estoque, cliente
 Projeto criado para estudo prático de Java, mesmo em um projeto um pouco mais simples que pode ser escalonado futuramente.
 
 
-
 ! Algumas funcionalidades ainda estão em implementação e o projeto seguirá recebendo melhorias conforme o desenvolvimento avança.
 🚯 Perdoem e relatem quaisquer erros encontrados.
+
+
+Para o auxílio de compreensão, eis posto "documentações" na pasta estoque contendo explicativas sobre o projeto.

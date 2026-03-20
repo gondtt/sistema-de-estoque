@@ -1,0 +1,9 @@
+[
+  {
+    "id": 48,
+    "quantidadeEstoque": 25,
+    "nome": "Arroz",
+    "tipo": "Alimento",
+    "preco": 9.2
+  }
+]
